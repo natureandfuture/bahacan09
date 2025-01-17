@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @bahacan09
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @natureandfuture
+- 👀 I’m interested in sport, agriculture and also electronic.
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me*
+  just send mail to mehmetbahakaplan@gmail.com
 
 <!---
-bahacan09/bahacan09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+natureandfuture/thatsme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
