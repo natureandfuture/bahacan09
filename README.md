@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @natureandfuture
 - 👀 I’m interested in sport, agriculture and also electronic.
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning "basics of be a product developer"
+- 🤝 I’m looking to collaborate on who can make mutualist relation with me
 - 📫 How to reach me*
   just send mail to mehmetbahakaplan@gmail.com
 
